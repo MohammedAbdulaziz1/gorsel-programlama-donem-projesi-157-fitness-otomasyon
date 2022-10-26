@@ -1,1 +1,7 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8884038&assignment_repo_type=AssignmentRepo)
+# ISTe FITNESS PLATFORM PROJECT
+```BASH
+ BY ASSEM ABOUZAITOUN, HASHEM, MOHAMED
+```
+
+ISTe is a gym management system which was developed using C#. This system allows the admin user to add members, delete members and also to check details of various member anytime. It consists of both CLI and GUI interface..
+
